@@ -1,0 +1,31 @@
+#include<algorithm>
+#include<numeric>
+#include<iostream>
+#include <string>
+#include<vector>
+#include <set>
+#include<deque>
+#include<list>
+#include<forward_list>
+#include<ostream>
+
+using std::forward_list;
+using std::deque;
+using std::list;
+using std::set;
+using std::vector;
+
+using std::string;
+using std::cout;
+using std::cin;
+/*
+because they don't work on the container they are provided with iterators and we can change the
+container's size with insert iterators*/
+
+
+int main()
+{
+	
+
+	return 0;
+}
